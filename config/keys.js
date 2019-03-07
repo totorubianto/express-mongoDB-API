@@ -1,3 +1,3 @@
 module.exports = {
-  mongoURL: "mongodb://toto:toto1701@ds161345.mlab.com:61345/epic"
+  mongoURL: "mongodb://dev:brilyan1@ds155730.mlab.com:55730/epicproject"
 };
